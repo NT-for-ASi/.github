@@ -22,6 +22,4 @@ Below are the main repositories for the project. Note that some efforts (patcher
 
 [m1n1, forked for better compatibility with non-Linux or UNIX-like guests](https://github.com/AppleWOA/m1n1_windows) - this is the repository for the fork of m1n1 that will be used to boot Windows for now. Currently being tweaked to remove dependence on a computer to boot under the hypervisor.
 
-## Upcoming
-
-Drivers repository - to host the source for the Windows drivers for Apple platforms
+[NT Drivers repository](https://github.com/AppleWOA/apple_silicon_nt_drivers) - hosts the source for the Windows drivers for Apple platforms (as of 10/10/2025, HAL Extension for AIC mainly)
