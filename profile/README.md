@@ -2,7 +2,9 @@
 
 Hello! This organization is host to all the repositories that deal with the AppleWOA project, such as drivers, ancillary applications, and the UEFI and bootloader implementations along with the patchers needed for Apple hardware to boot Windows.
 
-Mainly run by Arminder Singh ([amarioguy](https://github.com/amarioguy)) for the time being.
+Current project maintainers:
+- Arminder Singh ([amarioguy](https://github.com/amarioguy)) - project lead, co-developer
+- [graphine27](https://github.com/graphine27) - co-developer
 
 ## Disclaimer
 
