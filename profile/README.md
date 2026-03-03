@@ -5,6 +5,7 @@ Hello! This organization is host to all the repositories that deal with the Appl
 Current project maintainers:
 - Arminder Singh ([amarioguy](https://github.com/amarioguy)) - project lead, co-developer
 - [graphine27](https://github.com/graphine27) - co-developer
+- [zx](https://github.com/48cf) - co-developer
 
 ## Disclaimer
 
@@ -12,7 +13,7 @@ This project is not affiliated or associated with Apple, Microsoft, or the Asahi
 
 ### Project Links
 
-Discord: https://discord.gg/tXEkacZdZ5 (where most *active* discussion takes place)
+Discord: https://discord.gg/djXD4hXyYB (where most *active* discussion takes place)
 
 Telegram: https://t.me/AppleWOA (an alternate place to discuss AppleWOA (the project itself mainly))
 
