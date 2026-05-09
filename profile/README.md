@@ -15,7 +15,7 @@ This project is not affiliated or associated with Apple, Microsoft, or the Asahi
 
 Discord: https://discord.gg/djXD4hXyYB (where most *active* discussion takes place)
 
-Telegram: https://t.me/NTForASi (an alternate place to discuss AppleWOA (the project itself mainly))
+Telegram: https://t.me/NTForASi (an alternate place to discuss the project itself)
 
 ## Highlighted repos
 
